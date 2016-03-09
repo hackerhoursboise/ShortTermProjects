@@ -1,0 +1,19 @@
+.red {
+  background-color:red;
+}
+
+table {
+  border: 2px red solid;
+  font-color: black;
+}
+
+tr {
+	border: 2px green dotted;
+}
+
+td {
+	border: 2px black solid;
+	width: 20px;
+	height:20px;
+	text-align: center;
+}
